@@ -180,7 +180,7 @@ int main(void) {
 	add(root, 333);
 	add(root, 500);
 	add(root, 12);
-	//add(root, 58);
+	add(root, 58);
 
 	printf("Visita in-order: ");
 	print_inorder(root);
