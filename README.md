@@ -51,4 +51,4 @@ The program also generates an SVG file named `tree.svg` in the root directory. Y
 
 ## Author & Acknowledgments
 Jacopo di Lauro, University of Padua. 
-I took inspiration from a part of the code in this youtube video [Esadecimale](https://www.youtube.com/watch?v=R-RtvJKffq0) because I didn’t know how to draw a binary tree in an SVG file. 
+I took inspiration from a part of the code in this youtube video [Esadecimale](https://www.youtube.com/watch?v=R-RtvJKffq0). 
