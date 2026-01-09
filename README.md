@@ -26,17 +26,13 @@ A simple and clear `struct node` for the binary tree.
     ```
 ---
 
-##  Visualizations
-
-The program provides two ways to visualize the binary tree:
-
-### Terminal Output
+## Terminal Output
 
 After running the executable, the tree will be printed directly to your terminal.
 <img width="439" height="393" alt="image" src="https://github.com/user-attachments/assets/6be838f2-b7ef-4a8a-92ce-f63da55a3481" />
 
 
-### SVG Image
+## SVG Image
 
 The program also generates an SVG file named `tree.svg` in the root directory. You can open this file in any modern web browser to see a graphical representation of the tree.
 
