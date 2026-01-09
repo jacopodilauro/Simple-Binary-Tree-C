@@ -7,10 +7,6 @@ A simple and clear `struct node` for the binary tree.
 
 ---
 
-### Prerequisites
-
-You will need a C compiler, such as `gcc`, installed on your system.
-
 ### Installation & Execution
 
 1.  **Clone the repository (remember to replace with your details):**
