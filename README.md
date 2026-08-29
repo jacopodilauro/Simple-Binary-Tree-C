@@ -1,5 +1,5 @@
 
-## 🌳 Simple Binary Tree in C (Educational Exercise)
+## Simple Binary Tree in C (Educational Exercise)
 A simple and clear `struct node` for the binary tree.
 *   **In-Order Traversal:** A function to print the tree's nodes in ascending order.
 *   **Terminal Visualization:** A basic text-based representation of the tree structure in the terminal.
