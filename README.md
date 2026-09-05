@@ -11,8 +11,8 @@ A simple and clear `struct node` for the binary tree.
 
 1.  **Clone the repository (remember to replace with your details):**
     ```sh
-    git clone https://github.com/jacopodilauro/Simple-Binary-Tree-in-C
-    cd Simple-Binary-Tree-in-C
+    git clone https://github.com/jacopodilauro/simple-binary-tree
+    cd simple-binary-tree
     ```
 
 2.  **Compile the source code:**
